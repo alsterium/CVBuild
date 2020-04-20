@@ -1,0 +1,2 @@
+# CVBuild
+Build with Qt
